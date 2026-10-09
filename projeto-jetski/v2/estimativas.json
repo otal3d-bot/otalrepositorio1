@@ -1,0 +1,22 @@
+{
+  "total_hours": 24.92,
+  "total_grams": 506.7,
+  "plates": [
+    {
+      "plate": 1,
+      "seconds": 89729.2578125,
+      "grams": 506.6777648925781,
+      "parts": [
+        "porta_vara_direita.stl",
+        "guarda_sol.stl",
+        "bucha_28mm.stl",
+        "bucha_25mm.stl",
+        "base.stl",
+        "borboleta.stl",
+        "borboleta.stl",
+        "sapata.stl",
+        "sapata.stl"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "base.stl": {
+    "triangles": 3652,
+    "nonmanifold_edges": 0,
+    "dimensions_mm": [
+      140.0,
+      140.0,
+      38.0
+    ],
+    "volume_cm3": 195.063
+  },
+  "borboleta.stl": {
+    "triangles": 808,
+    "nonmanifold_edges": 0,
+    "dimensions_mm": [
+      48.0,
+      20.0,
+      10.0
+    ],
+    "volume_cm3": 6.403
+  },
+  "bucha_22mm.stl": {
+    "triangles": 1304,
+    "nonmanifold_edges": 0,
+    "dimensions_mm": [
+      40.0,
+      39.974,
+      63.0
+    ],
+    "volume_cm3": 35.462
+  },
+  "bucha_25mm.stl": {
+    "triangles": 1304,
+    "nonmanifold_edges": 0,
+    "dimensions_mm": [
+      40.0,
+      39.974,
+      63.0
+    ],
+    "volume_cm3": 28.954
+  },
+  "bucha_28mm.stl": {
+    "triangles": 1296,
+    "nonmanifold_edges": 0,
+    "dimensions_mm": [
+      40.0,
+      39.974,
+      63.0
+    ],
+    "volume_cm3": 21.548
+  },
+  "bucha_32mm.stl": {
+    "triangles": 1288,
+    "nonmanifold_edges": 0,
+    "dimensions_mm": [
+      40.0,
+      39.974,
+      63.0
+    ],
+    "volume_cm3": 10.281
+  },
+  "guarda_sol.stl": {
+    "triangles": 1724,
+    "nonmanifold_edges": 0,
+    "dimensions_mm": [
+      56.0,
+      70.0,
+      150.0
+    ],
+    "volume_cm3": 198.165
+  },
+  "porta_vara_direita.stl": {
+    "triangles": 3058,
+    "nonmanifold_edges": 0,
+    "dimensions_mm": [
+      114.238,
+      72.0,
+      145.666
+    ],
+    "volume_cm3": 132.844
+  },
+  "sapata.stl": {
+    "triangles": 780,
+    "nonmanifold_edges": 0,
+    "dimensions_mm": [
+      12.0,
+      12.0,
+      5.0
+    ],
+    "volume_cm3": 0.601
+  }
+}

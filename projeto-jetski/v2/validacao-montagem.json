@@ -1,0 +1,12 @@
+{
+  "central_vs_rod_volume_intersection": "empty",
+  "rod_foot_outside_circle": "empty",
+  "base_xy_mm": [
+    140,
+    140
+  ],
+  "angle_from_vertical_degrees": 25,
+  "rod_holders": 1,
+  "wing_knobs": 2,
+  "physical_fit_validated": false
+}
