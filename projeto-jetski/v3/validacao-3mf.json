@@ -1,0 +1,28 @@
+{
+  "bambu_studio_version": "02.08.02.61",
+  "objects": 9,
+  "plates": 1,
+  "gcode_present": true,
+  "zip_integrity": "passed",
+  "support_features": 0,
+  "wall_loops": 3,
+  "sparse_infill_density": "15%",
+  "sparse_infill_pattern": "gyroid",
+  "gcode_estimates": [
+    "; model printing time: 17h 16m 33s; total estimated time: 17h 23m 5s",
+    "; total layer number: 625",
+    "; total filament weight [g] : 332.95"
+  ],
+  "stl_sha256": {
+    "bucha_32mm.stl": "ac7b138d7966e9e7fdc7805fd7b83909719818520f5b254fc1100da299d56f65",
+    "bucha_22mm.stl": "3d962fb860d430d2e225f133cdaa97b7bdfe37ab98107fbd707e07b4cd2b45f9",
+    "bucha_28mm.stl": "e3cdf04f9efabe490ffda810f75d8dc4fa1e10b6a90be2e9ef7303ea245c03ea",
+    "borboleta.stl": "10e573be4bcf7eecb38d3107de8cc032fc36781b7a3cf1759142d3285153a37c",
+    "bucha_25mm.stl": "6504f736d8053403131162002f0efa357c8008ff5d3e090f0bd3dc190295c06f",
+    "guarda_sol.stl": "a2a7e77a9bd41c8fabf78222da1ed515a7ecd9b2a2f9f8c4ef910bf2048847fa",
+    "porta_vara_direita.stl": "d0c49efeec43f7fff443b512b1938fcfd42908ed9776bb98536b38951fd54357",
+    "base.stl": "bca5722333a33f00ec388b567063754f1591e162e3eac2ce2c818bae86a49256",
+    "sapata.stl": "787c0f326d43f9515df33ec6230e4a25855badf4a212271e34f7a07677840570"
+  },
+  "physical_print_validated": false
+}

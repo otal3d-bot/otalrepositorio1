@@ -1,0 +1,110 @@
+{
+  "base.stl": {
+    "triangles": 3828,
+    "nonmanifold_edges": 0,
+    "dimensions_mm": [
+      140.0,
+      140.0,
+      38.0
+    ],
+    "volume_cm3": 193.937,
+    "overhang_above_45_degrees_from_vertical_area_mm2": 0,
+    "flagged_faces": []
+  },
+  "borboleta.stl": {
+    "triangles": 808,
+    "nonmanifold_edges": 0,
+    "dimensions_mm": [
+      48.0,
+      20.0,
+      10.0
+    ],
+    "volume_cm3": 6.403,
+    "overhang_above_45_degrees_from_vertical_area_mm2": 0,
+    "flagged_faces": []
+  },
+  "bucha_22mm.stl": {
+    "triangles": 1304,
+    "nonmanifold_edges": 0,
+    "dimensions_mm": [
+      40.0,
+      39.974,
+      63.0
+    ],
+    "volume_cm3": 35.613,
+    "overhang_above_45_degrees_from_vertical_area_mm2": 0,
+    "flagged_faces": []
+  },
+  "bucha_25mm.stl": {
+    "triangles": 1304,
+    "nonmanifold_edges": 0,
+    "dimensions_mm": [
+      40.0,
+      39.974,
+      63.0
+    ],
+    "volume_cm3": 29.069,
+    "overhang_above_45_degrees_from_vertical_area_mm2": 0,
+    "flagged_faces": []
+  },
+  "bucha_28mm.stl": {
+    "triangles": 1296,
+    "nonmanifold_edges": 0,
+    "dimensions_mm": [
+      40.0,
+      39.974,
+      63.0
+    ],
+    "volume_cm3": 21.628,
+    "overhang_above_45_degrees_from_vertical_area_mm2": 0,
+    "flagged_faces": []
+  },
+  "bucha_32mm.stl": {
+    "triangles": 1288,
+    "nonmanifold_edges": 0,
+    "dimensions_mm": [
+      40.0,
+      39.974,
+      63.0
+    ],
+    "volume_cm3": 10.315,
+    "overhang_above_45_degrees_from_vertical_area_mm2": 0,
+    "flagged_faces": []
+  },
+  "guarda_sol.stl": {
+    "triangles": 1402,
+    "nonmanifold_edges": 0,
+    "dimensions_mm": [
+      64.0,
+      74.0,
+      150.0
+    ],
+    "volume_cm3": 144.66,
+    "overhang_above_45_degrees_from_vertical_area_mm2": 0,
+    "flagged_faces": []
+  },
+  "porta_vara_direita.stl": {
+    "triangles": 2550,
+    "nonmanifold_edges": 0,
+    "dimensions_mm": [
+      115.144,
+      71.626,
+      146.089
+    ],
+    "volume_cm3": 129.357,
+    "overhang_above_45_degrees_from_vertical_area_mm2": 0,
+    "flagged_faces": []
+  },
+  "sapata.stl": {
+    "triangles": 780,
+    "nonmanifold_edges": 0,
+    "dimensions_mm": [
+      12.0,
+      12.0,
+      5.0
+    ],
+    "volume_cm3": 0.601,
+    "overhang_above_45_degrees_from_vertical_area_mm2": 0,
+    "flagged_faces": []
+  }
+}

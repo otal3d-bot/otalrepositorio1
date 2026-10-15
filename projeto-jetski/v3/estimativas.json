@@ -1,0 +1,9 @@
+{
+  "profile": "A1 0.4 PETG 0.24mm 3 paredes 15% gyroid",
+  "gcode_estimates": [
+    "; model printing time: 17h 16m 33s; total estimated time: 17h 23m 5s",
+    "; total layer number: 625",
+    "; total filament weight [g] : 332.95"
+  ],
+  "measured_print": false
+}
