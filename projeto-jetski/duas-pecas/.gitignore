@@ -1,0 +1,11 @@
+fatiamento/
+bambu-studio.log
+__pycache__/
+fontes/*.log
+fontes/curva_*.stl
+fontes/extensao_parametrica.stl
+fontes/extensao_orientada_antes_bisel.stl
+fontes/extensao_modelo.scad
+fontes/extensao_revisada.scad
+fontes/alteracoes.json
+fontes/curva-parametros.json

@@ -1,0 +1,41 @@
+{
+  "file": "completo_duas_pecas_facetado.3mf",
+  "sha256": "645941db938e1fa5e01ac8eb606b564873cd9d88f386f546a9b4c4f2357df362",
+  "objects": 2,
+  "wall_loops": 3,
+  "infill": "15% gyroid",
+  "layer_height_mm": "0.2",
+  "enable_support": false,
+  "plates": [
+    {
+      "gcode": "Metadata/plate_1.gcode",
+      "support_features": 0,
+      "statistics": [
+        "; model printing time: 1d 12h 2m 54s; total estimated time: 1d 12h 9m 30s",
+        "; total filament weight [g] : 619.16"
+      ]
+    }
+  ],
+  "mesh_statistics": [
+    {
+      "face_count": "11948",
+      "edges_fixed": "0",
+      "degenerate_facets": "0",
+      "facets_removed": "0",
+      "facets_reversed": "0",
+      "backwards_edges": "0"
+    },
+    {
+      "face_count": "12570",
+      "edges_fixed": "0",
+      "degenerate_facets": "0",
+      "facets_removed": "0",
+      "facets_reversed": "0",
+      "backwards_edges": "0"
+    }
+  ],
+  "stl_sha256": {
+    "corpo_revisado.stl": "5ac7103ad4362d1b0965ea0c98203619b763f608f8e80ee148587448c1f4123e",
+    "extensao_revisada.stl": "d5a0ae60da8c4eb088ab4a0764e9fe0306f67ea59663ab12f499d4bfb9855efd"
+  }
+}

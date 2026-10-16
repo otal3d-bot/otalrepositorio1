@@ -1,14 +1,13 @@
-# Suporte para uma vara e um guarda-sol — protótipo V3
+# Suporte — revisão facetada do completo.3mf
 
-A revisão atual altera os STL para alojamentos octogonais com nervuras e rampas para impressão sem suportes. Mantém a base circular de 140 mm, um porta-varas a 25° da vertical e duas borboletas de aperto manual com roscas M6 metálicas.
+Revisão baseada no arquivo original enviado pelo usuário, mantendo **duas peças**: corpo com dois tubos e extensão curva. A extensão passa a 45° e os exteriores recebem faces planas. O encaixe original é preservado; as rampas e a face de apoio da ponta foram ajustadas para a impressão na A1.
 
-- [Projeto 3MF A1/PETG V3](projeto-jetski/v3/Jetski_A1_PETG_V3_FACETADO_25GRAUS.3mf)
-- [Pacote completo V3](projeto-jetski/v3/Jetski_PROTOTIPO_V3_completo.zip)
-- [STL individuais](projeto-jetski/v3/stl/)
-- [Mudanças, validação e instruções](projeto-jetski/v3/LEIA-ME.md)
+- [Baixar projeto 3MF](projeto-jetski/duas-pecas/completo_duas_pecas_facetado.3mf)
+- [Baixar os dois STL](projeto-jetski/duas-pecas/STL_duas_pecas.zip)
+- [Mudanças, perfil e validação](projeto-jetski/duas-pecas/LEIA-ME.md)
 
-![Montagem do protótipo V3](projeto-jetski/v3/montagem-prototipo.png)
+![Montagem das duas peças facetadas](projeto-jetski/duas-pecas/montagem_facetada.png)
 
-Fatiamento A1, bico 0,4 mm, PETG, camada 0,24 mm, **3 paredes e 15% gyroid**: estimativa de **17 h 23 min e 332,95 g**, sem suportes, em uma mesa. As nove malhas passaram na análise de fechamento e de faces inferiores acima de 45° fora da mesa. A geometria facetada e os módulos separados diferem visualmente da referência fotográfica.
+Perfil: A1, PETG, bico 0,4 mm, camada 0,20 mm, **3 paredes e 15% gyroid**. Use a orientação de impressão salva no 3MF.
 
-**Protótipo sem validação física de encaixe, resistência ou vedação. Não certificado para venda nem compatibilidade universal.** As revisões V1 e V2 foram preservadas.
+**Protótipo sem validação física de encaixe, resistência ou vedação.** As revisões anteriores foram preservadas no histórico e nas respectivas pastas; a V3 anterior com várias peças não corresponde a esta revisão do arquivo original.

@@ -1,0 +1,15 @@
+{
+  "support_type": "normal(auto)",
+  "threshold_angle": "45",
+  "result": "extra supports suggested; stricter than the uploaded project",
+  "plates": [
+    {
+      "plate": "Metadata/plate_1.gcode",
+      "support_features": [
+        "Support interface",
+        "Support transition",
+        "Support"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "support_enabled": true,
+  "support_type": "tree(auto)",
+  "threshold_angle_degrees": 30,
+  "bridge_no_support": "0",
+  "uses_original_detection_parameters": true,
+  "plates": [
+    {
+      "file": "Metadata/plate_1.gcode",
+      "support_features": []
+    },
+    {
+      "file": "Metadata/plate_2.gcode",
+      "support_features": []
+    }
+  ],
+  "stl_sha256": {
+    "corpo_revisado.stl": "5ac7103ad4362d1b0965ea0c98203619b763f608f8e80ee148587448c1f4123e",
+    "extensao_revisada.stl": "d5a0ae60da8c4eb088ab4a0764e9fe0306f67ea59663ab12f499d4bfb9855efd"
+  },
+  "extra_normal_45_degree_test": "suggests supports on extension; see validacao-extra-45.json",
+  "physical_print_tested": false
+}

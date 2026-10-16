@@ -1,0 +1,38 @@
+{
+  "original_file": "completo.3mf",
+  "pieces": 2,
+  "extension_curve_deg": 45,
+  "extension_print_rotation": [
+    [
+      0.9986295347545739,
+      0.05233595624294384,
+      -0.0
+    ],
+    [
+      0.0,
+      0.0,
+      1.0
+    ],
+    [
+      0.052335956242943835,
+      -0.9986295347545738,
+      0.0
+    ]
+  ],
+  "extension_print_translation_mm": [
+    0.0,
+    0.0,
+    135.7543808153597
+  ],
+  "extension_before_foot_bevel_dimensions_mm": [
+    195.16566129950732,
+    68.5999984741211,
+    289.0991174694224
+  ],
+  "non_mating_tip_bevel_max_depth_mm": 35.099117469422424,
+  "target_height_mm": 254,
+  "protected_stem_original_y_max_mm": -5.03302,
+  "extension_arm_length_before_tip_bevel_mm": 190,
+  "original_stem_outside_diameter_mm": 59.69,
+  "original_inner_diameter_mm": 41.275
+}

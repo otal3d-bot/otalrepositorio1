@@ -1,0 +1,14 @@
+{
+  "source": "Bambu Studio 02.08.02.61",
+  "estimated_not_measured": true,
+  "plates": [
+    {
+      "gcode": "Metadata/plate_1.gcode",
+      "support_features": 0,
+      "statistics": [
+        "; model printing time: 1d 12h 2m 54s; total estimated time: 1d 12h 9m 30s",
+        "; total filament weight [g] : 619.16"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "source_filename": "completo.3mf",
+  "source_sha256": "8faf445c6c2871af7320ecaecee5083d9c5b4c578c8c254b4af6bfe9189ea0d4",
+  "source_objects": [
+    "Seadoo Double Rod Holder v2.STL",
+    "Rod Holder extension v2.STL"
+  ],
+  "output_objects": 2,
+  "original_profile": {
+    "wall_loops": 2,
+    "sparse_infill_density": "8%",
+    "layer_height_mm": 0.2
+  },
+  "requested_profile": {
+    "wall_loops": 3,
+    "sparse_infill_density": "15%",
+    "sparse_infill_pattern": "gyroid"
+  },
+  "protected_interfaces": {
+    "base_bolt_pattern": "original geometry retained",
+    "main_tube_bores": "original geometry retained above original floors",
+    "extension_stem": "original source geometry retained for y <= -5.03302 mm; all added and relieved geometry lies above this region"
+  },
+  "physical_validation": false
+}
